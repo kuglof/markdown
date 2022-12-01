@@ -28,4 +28,7 @@ ezt úgy hívják hogy **L
 :skull:
 
 :joy:
+
 :trollface:
+
+X^2^
