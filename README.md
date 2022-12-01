@@ -1,7 +1,9 @@
 # markdown
 ---
 Ismerkedés az .md állományokkal
-<p style="color:red">Kiemelt szöveg: **Félkövér**</p>
+<p style="color:red">Kiemelt szöveg:</p>
+
+**Félkövér**
 
 ![valami kép](https://i.ytimg.com/vi/Jf0wZW-q9Wk/maxresdefault.jpg)
 
